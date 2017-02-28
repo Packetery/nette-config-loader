@@ -1,0 +1,19 @@
+{
+  "name": "packetery/nette-config-loader",
+  "type": "nette-extension",
+  "require": {
+    "nette/di": "^2.4"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Martin Macho",
+      "email": "martin.macho@zasilkovna.cz"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Packetery\\Nette\\DI": "src/Packetery/Nette/DI/"
+    }
+  }
+}
