@@ -2,7 +2,7 @@
   "name": "packetery/nette-config-loader",
   "type": "nette-extension",
   "require": {
-    "nette/di": "^2.4"
+    "nette/di": "^2.2"
   },
   "license": "MIT",
   "authors": [
